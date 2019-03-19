@@ -18,9 +18,8 @@
         "ii": "npm install --registry https://registry.npm.taobao.org"
     },
     "dependencies": {
-        "@material-ui/core": "^3.7.1",
-        "@material-ui/icons": "^3.0.1",
-        "antd": "^3.0.3",
+        "@material-ui/core": "^3.9.2",
+        "@material-ui/icons": "^3.0.2",
         "classnames": "^2.2.6",
         "cross-env": "^5.0.0",
         "egg": "^2.1.0",
